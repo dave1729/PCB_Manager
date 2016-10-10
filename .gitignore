@@ -1,3 +1,16 @@
+#Eclipse Files
+*.cproject
+*.project
+*.mk
+*.make
+*.o
+*.d
+*.exe
+*.xml
+
+#Gitfiles
+.gitattributes
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
